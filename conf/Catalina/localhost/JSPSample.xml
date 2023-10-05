@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/home/raman01/JAVA BOOTCAMP/EXAMPLES/CLASE-06/JSPSample/WebContent">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/home/raman01/JAVA BOOTCAMP/EXAMPLES/CLASE-06/JSPSample/out/production/JSPSample" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="/home/raman01/JAVA BOOTCAMP/EXAMPLES/CLASE-06/JSPSample/javax.servlet-api-3.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet-api-3.0.1.jar"/>
+  </Resources>
+</Context>
